@@ -1,0 +1,20 @@
+{
+    "name": "verification-backend",
+    "version": "1.0.0",
+    "description": "Employment Verification Backend",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "csv-parse": "^5.3.6",
+      "express": "^4.18.2",
+      "multer": "^1.4.5-lts.1",
+      "pdfkit": "^0.13.0",
+      "sqlite3": "^5.1.6"
+    }
+  }
+  

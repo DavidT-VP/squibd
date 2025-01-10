@@ -1,0 +1,13 @@
+full_name,ssn,job_start_date,job_end_date,status,job_type,organization_id
+Tony Stark,998877665,2016-01-01,2017-01-01,Rehireable,Employee,ORG2
+Steve Rogers,774411223,2017-05-05,2018-05-05,Not Rehireable,Contractor,ORG2
+Natasha Romanoff,665544332,2018-02-10,2019-03-15,Rehireable,Employee,ORG2
+Bruce Banner,112233445,2019-03-01,2020-04-01,Rehireable,Employee,ORG2
+Peter Parker,546372819,2020-01-20,2021-07-30,Not Rehireable,Contractor,ORG2
+Carol Danvers,657483920,2021-08-01,2022-02-15,Rehireable,Employee,ORG2
+James Rhodes,564738291,2016-09-09,2017-10-10,Rehireable,Contractor,ORG2
+Wanda Maximoff,908172635,2017-11-11,2018-12-12,Not Rehireable,Employee,ORG2
+Clint Barton,726459183,2019-01-01,2020-05-05,Rehireable,Contractor,ORG2
+Sam Wilson,192837465,2021-03-03,2022-04-04,Rehireable,Employee,ORG2
+John Doe,123456789,2018-01-01,2020-01-01,Rehireable,Contractor,ORG2
+
